@@ -23,7 +23,7 @@ start = time.time()
 
 
 # Number of systems per time slice
-N = 10000
+N = 50000
 
 # Empty array for input binary parameters
 x_i_good = np.empty((0, 11))
